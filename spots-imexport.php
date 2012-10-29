@@ -4,8 +4,8 @@ Plugin Name: Spots Import/Export
 Plugin URI:
 Version: 0.6
 Description: Tool too easily import and export all existing Spots as CSV files
-Author: Ben Lobaugh
-Author URI: http://ben.lobaugh.net
+Author: freshmuse ( Ben Lobaugh )
+Author URI: http://freshmuse.com
 */
 
 add_action( 'init', 'spots_imex_download_csv' );
